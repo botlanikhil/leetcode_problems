@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/botlanikhil/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/botlanikhil/leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1894-merge-strings-alternately](https://github.com/botlanikhil/leetcode_problems/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
