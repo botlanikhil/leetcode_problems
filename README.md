@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0001-two-sum) |
+| [0238-product-of-array-except-self](https://github.com/botlanikhil/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/botlanikhil/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/botlanikhil/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
