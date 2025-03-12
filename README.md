@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2058-concatenation-of-array) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/botlanikhil/leetcode_problems/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/botlanikhil/leetcode_problems/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/botlanikhil/leetcode_problems/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/botlanikhil/leetcode_problems/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## Greedy
 |  |
 | ------- |
