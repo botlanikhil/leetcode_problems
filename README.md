@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/botlanikhil/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2058-concatenation-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2058-concatenation-of-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/botlanikhil/leetcode_problems/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/botlanikhil/leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 ## String
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
