@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -149,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
