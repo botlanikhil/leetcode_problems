@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/botlanikhil/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/botlanikhil/leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 ## Simulation
 |  |
