@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/botlanikhil/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
