@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/botlanikhil/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/botlanikhil/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
+| [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/botlanikhil/leetcode_problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Divide and Conquer
