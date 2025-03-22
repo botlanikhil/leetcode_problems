@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1236-n-th-tribonacci-number](https://github.com/botlanikhil/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/botlanikhil/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0198-house-robber](https://github.com/botlanikhil/leetcode_problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/botlanikhil/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/botlanikhil/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/botlanikhil/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
