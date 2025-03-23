@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/botlanikhil/leetcode_problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/botlanikhil/leetcode_problems/tree/master/0031-next-permutation) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/botlanikhil/leetcode_problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/botlanikhil/leetcode_problems/tree/master/0031-next-permutation) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0015-3sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1777-determine-if-two-strings-are-close](https://github.com/botlanikhil/leetcode_problems/tree/master/1777-determine-if-two-strings-are-close) |
