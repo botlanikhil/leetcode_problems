@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/botlanikhil/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/botlanikhil/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/botlanikhil/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 ## Dynamic Programming
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/botlanikhil/leetcode_problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1236-n-th-tribonacci-number](https://github.com/botlanikhil/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
