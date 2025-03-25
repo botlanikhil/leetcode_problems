@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/botlanikhil/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/botlanikhil/leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/botlanikhil/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/botlanikhil/leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2128-reverse-prefix-of-word](https://github.com/botlanikhil/leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/botlanikhil/leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## String Matching
 |  |
 | ------- |
