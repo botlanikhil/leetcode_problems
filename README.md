@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botlanikhil/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/botlanikhil/leetcode_problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/botlanikhil/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/botlanikhil/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/botlanikhil/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/botlanikhil/leetcode_problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/botlanikhil/leetcode_problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
