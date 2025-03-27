@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/botlanikhil/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3567-convert-date-to-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/3567-convert-date-to-binary) |
 ## Backtracking
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/botlanikhil/leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/3379-score-of-a-string) |
+| [3567-convert-date-to-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/3567-convert-date-to-binary) |
 ## Greedy
 |  |
 | ------- |
