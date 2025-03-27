@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/botlanikhil/leetcode_problems/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/botlanikhil/leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/botlanikhil/leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/botlanikhil/leetcode_problems/tree/master/1205-defanging-an-ip-address) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/botlanikhil/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/botlanikhil/leetcode_problems/tree/master/1777-determine-if-two-strings-are-close) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/botlanikhil/leetcode_problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1797-goal-parser-interpretation](https://github.com/botlanikhil/leetcode_problems/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/botlanikhil/leetcode_problems/tree/master/1894-merge-strings-alternately) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
