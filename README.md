@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/botlanikhil/leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
+| [3379-score-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/3379-score-of-a-string) |
 ## Greedy
 |  |
 | ------- |
