@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/botlanikhil/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/botlanikhil/leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/botlanikhil/leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
