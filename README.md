@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/botlanikhil/leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/botlanikhil/leetcode_problems/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 | [3379-score-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/3412-permutation-difference-between-two-strings) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2058-concatenation-of-array) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/botlanikhil/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
