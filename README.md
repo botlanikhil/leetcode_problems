@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/botlanikhil/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/botlanikhil/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/botlanikhil/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/botlanikhil/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [2058-concatenation-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2058-concatenation-of-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2361-calculate-digit-sum-of-a-string) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/botlanikhil/leetcode_problems/tree/master/0463-island-perimeter) |
+| [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Heap (Priority Queue)
