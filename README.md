@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/botlanikhil/leetcode_problems/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/botlanikhil/leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/botlanikhil/leetcode_problems/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/botlanikhil/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botlanikhil/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/botlanikhil/leetcode_problems/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/botlanikhil/leetcode_problems/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1236-n-th-tribonacci-number](https://github.com/botlanikhil/leetcode_problems/tree/master/1236-n-th-tribonacci-number) |
