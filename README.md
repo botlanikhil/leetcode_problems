@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/botlanikhil/leetcode_problems/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/botlanikhil/leetcode_problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/botlanikhil/leetcode_problems/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [2058-concatenation-of-array](https://github.com/botlanikhil/leetcode_problems/tree/master/2058-concatenation-of-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2428-equal-row-and-column-pairs) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/botlanikhil/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
+| [0898-transpose-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/2454-largest-local-values-in-a-matrix) |
 ## Heap (Priority Queue)
