@@ -2,13 +2,6 @@ class Solution(object):
     def generateMatrix(self, n):
         c = 1
         mat = [[0 for _ in range(n)] for _ in range(n)]
-
-        '''for i in range(n):
-            for j in range(n):
-                mat[i][j] = c
-                c += 1
-                if not mat:
-                    return []'''
         top, bottom = 0,n- 1
         left, right = 0,n- 1
 
