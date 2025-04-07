@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/botlanikhil/leetcode_problems/tree/master/0197-rising-temperature) |
 | [0596-classes-more-than-5-students](https://github.com/botlanikhil/leetcode_problems/tree/master/0596-classes-more-than-5-students) |
 | [1153-product-sales-analysis-i](https://github.com/botlanikhil/leetcode_problems/tree/master/1153-product-sales-analysis-i) |
 | [1258-article-views-i](https://github.com/botlanikhil/leetcode_problems/tree/master/1258-article-views-i) |
