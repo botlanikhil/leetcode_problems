@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/botlanikhil/leetcode_problems/tree/master/0443-string-compression) |
+| [0649-dota2-senate](https://github.com/botlanikhil/leetcode_problems/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/botlanikhil/leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/botlanikhil/leetcode_problems/tree/master/0953-reverse-only-letters) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
+| [0649-dota2-senate](https://github.com/botlanikhil/leetcode_problems/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/botlanikhil/leetcode_problems/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/botlanikhil/leetcode_problems/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
