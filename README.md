@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2714-left-and-right-sum-differences](https://github.com/botlanikhil/leetcode_problems/tree/master/2714-left-and-right-sum-differences) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/botlanikhil/leetcode_problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/botlanikhil/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2428-equal-row-and-column-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/3412-permutation-difference-between-two-strings) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/botlanikhil/leetcode_problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Math
 |  |
 | ------- |
