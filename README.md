@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/botlanikhil/leetcode_problems/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/botlanikhil/leetcode_problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/botlanikhil/leetcode_problems/tree/master/1415-students-and-examinations) |
+| [1877-find-followers-count](https://github.com/botlanikhil/leetcode_problems/tree/master/1877-find-followers-count) |
 ## Design
 |  |
 | ------- |
