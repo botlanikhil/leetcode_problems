@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/botlanikhil/leetcode_problems/tree/master/0048-rotate-image) |
+| [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/botlanikhil/leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/botlanikhil/leetcode_problems/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/botlanikhil/leetcode_problems/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/botlanikhil/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/botlanikhil/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/botlanikhil/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0898-transpose-matrix) |
