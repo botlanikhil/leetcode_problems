@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/botlanikhil/leetcode_problems/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/botlanikhil/leetcode_problems/tree/master/1415-students-and-examinations) |
 | [1877-find-followers-count](https://github.com/botlanikhil/leetcode_problems/tree/master/1877-find-followers-count) |
+| [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/botlanikhil/leetcode_problems/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 ## Design
 |  |
 | ------- |
