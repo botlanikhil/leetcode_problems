@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/botlanikhil/leetcode_problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/botlanikhil/leetcode_problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/botlanikhil/leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botlanikhil/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
