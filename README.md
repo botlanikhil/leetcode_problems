@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/botlanikhil/leetcode_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/botlanikhil/leetcode_problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botlanikhil/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/botlanikhil/leetcode_problems/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/botlanikhil/leetcode_problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/botlanikhil/leetcode_problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
