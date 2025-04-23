@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/botlanikhil/leetcode_problems/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botlanikhil/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/botlanikhil/leetcode_problems/tree/master/0162-find-peak-element) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/botlanikhil/leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/botlanikhil/leetcode_problems/tree/master/0198-house-robber) |
