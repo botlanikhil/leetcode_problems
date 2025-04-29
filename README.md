@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/botlanikhil/leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/botlanikhil/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/botlanikhil/leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
+| [0661-image-smoother](https://github.com/botlanikhil/leetcode_problems/tree/master/0661-image-smoother) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/botlanikhil/leetcode_problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/botlanikhil/leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/botlanikhil/leetcode_problems/tree/master/0735-asteroid-collision) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0463-island-perimeter](https://github.com/botlanikhil/leetcode_problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/botlanikhil/leetcode_problems/tree/master/0661-image-smoother) |
 | [0898-transpose-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0898-transpose-matrix) |
 | [2428-equal-row-and-column-pairs](https://github.com/botlanikhil/leetcode_problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/2454-largest-local-values-in-a-matrix) |
