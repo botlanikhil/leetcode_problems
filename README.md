@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/botlanikhil/leetcode_problems/tree/master/0231-power-of-two) |
+| [0415-add-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/botlanikhil/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0946-smallest-range-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0946-smallest-range-ii) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/botlanikhil/leetcode_problems/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0394-decode-string) |
+| [0415-add-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/botlanikhil/leetcode_problems/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/botlanikhil/leetcode_problems/tree/master/0649-dota2-senate) |
 | [0782-jewels-and-stones](https://github.com/botlanikhil/leetcode_problems/tree/master/0782-jewels-and-stones) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0566-reshape-the-matrix) |
 | [0735-asteroid-collision](https://github.com/botlanikhil/leetcode_problems/tree/master/0735-asteroid-collision) |
 | [0898-transpose-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0898-transpose-matrix) |
