@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/botlanikhil/leetcode_problems/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/botlanikhil/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/botlanikhil/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/botlanikhil/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/botlanikhil/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/botlanikhil/leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/botlanikhil/leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/botlanikhil/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/botlanikhil/leetcode_problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/botlanikhil/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/botlanikhil/leetcode_problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/botlanikhil/leetcode_problems/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/botlanikhil/leetcode_problems/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/botlanikhil/leetcode_problems/tree/master/0628-maximum-product-of-three-numbers) |
