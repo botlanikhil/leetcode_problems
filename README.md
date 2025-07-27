@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/botlanikhil/leetcode_problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/botlanikhil/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/botlanikhil/leetcode_problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/botlanikhil/leetcode_problems/tree/master/0066-plus-one) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/botlanikhil/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/botlanikhil/leetcode_problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/botlanikhil/leetcode_problems/tree/master/0120-triangle) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/botlanikhil/leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 ## Recursion
 |  |
