@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/botlanikhil/leetcode_problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/botlanikhil/leetcode_problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/botlanikhil/leetcode_problems/tree/master/0049-group-anagrams) |
+| [0160-intersection-of-two-linked-lists](https://github.com/botlanikhil/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/botlanikhil/leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/botlanikhil/leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/botlanikhil/leetcode_problems/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/botlanikhil/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/botlanikhil/leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/botlanikhil/leetcode_problems/tree/master/0283-move-zeroes) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/botlanikhil/leetcode_problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/botlanikhil/leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/botlanikhil/leetcode_problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/botlanikhil/leetcode_problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/botlanikhil/leetcode_problems/tree/master/0206-reverse-linked-list) |
 ## Monotonic Stack
 |  |
