@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/botlanikhil/leetcode_problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/botlanikhil/leetcode_problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/botlanikhil/leetcode_problems/tree/master/0782-jewels-and-stones) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/botlanikhil/leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/botlanikhil/leetcode_problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/botlanikhil/leetcode_problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/botlanikhil/leetcode_problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/botlanikhil/leetcode_problems/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/botlanikhil/leetcode_problems/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/botlanikhil/leetcode_problems/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/botlanikhil/leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/botlanikhil/leetcode_problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/botlanikhil/leetcode_problems/tree/master/1777-determine-if-two-strings-are-close) |
